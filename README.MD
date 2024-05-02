@@ -1,9 +1,11 @@
 <div align="center">
 <h2>Monitoria Desenvolvimento de sistemas</h2>
-<p>Repo oficial para manter códigos, slides e anotações utilizadas na monitoria do curso de desenvolvimento de sistemas do SENAI-Alagoinhas</p>
+<h3 align="left">Descrição</h3>
+<p align="left">Repositório oficial para manter códigos, slides e anotações utilizadas na monitoria do curso de desenvolvimento de sistemas do SENAI-Alagoinhas</p>
 </div>
 <div>
-<h6>Fundadores - Thiago Vinicius e Tiago Palmeira</h6>
+<h4>Fundadores</h4>
+<a href="https://github.com/darkwesy">Thiago Vinicius</a> & <a href="https://github.com/Tiagopalmeira">Tiago Palmeira</a>  
 <h6>Unidade: Senai - Alagoinhas</h6>
 </div>
 <hr>
