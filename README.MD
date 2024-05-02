@@ -1,5 +1,6 @@
 <div align="center">
-<h2>Desenvolvimento de sistemas</h2>
+<h2>Monitoria Desenvolvimento de sistemas</h2>
+<p>Repo oficial para manter códigos, slides e anotações utilizadas na monitoria do curso de desenvolvimento de sistemas do SENAI-Alagoinhas</p>
 </div>
 <div>
 <h6>Fundadores - Thiago Vinicius e Tiago Palmeira</h6>
@@ -9,10 +10,12 @@
 
 # :calendar: Calendario
 
-| _Dia_          | _Assunto_                       | _Hora_              | _Monitores_                                                                                         |
-| -------------- | ------------------------------- | ------------------- | --------------------------------------------------------------------------------------------------- |
-| **19/04/2024** | **Strings e Matrizes (Python)** | **13:00 até 17:00** | [**Thiago Vinicius**](github.com/darkwesy) e [**Tiago Palmeira**](https://github.com/Tiagopalmeira) |
+| _Dia_          | _Assunto_                                 | _Hora_              | _Monitor_                                  |
+| -------------- | ----------------------------------------- | ------------------- | ------------------------------------------ |
+| **19/04/2024** | **Strings e Matrizes (Python)**           | **13:00 até 17:00** | [**Thiago Vinicius**](github.com/darkwesy) |
+| **02/05/2024** | **Linguagem C e continuação de matrizes** | **13:00 até 17:00** | [**Thiago Vinicius**](github.com/darkwesy) |
+| **03/05/2024** | **A definir**                             | **13:00 até 17:00** | [**Thiago Vinicius**](github.com/darkwesy) |
+| **10/05/2024** | **A definir**                             | **17:00 até 18:20** | [**Thiago Vinicius**](github.com/darkwesy) |
+| **17/05/2024** | **A definir**                             | **17:00 até 18:20** | [**Thiago Vinicius**](github.com/darkwesy) |
 
 <hr>
-
-# Lista de estudantes
