@@ -16,8 +16,8 @@
 | -------------- | ----------------------------------------- | ------------------- | ------------------------------------------ |
 | **19/04/2024** | **Strings e Matrizes (Python)**           | **13:00 até 17:00** | [**Thiago Vinicius**](github.com/darkwesy) |
 | **02/05/2024** | **Linguagem C e continuação de matrizes** | **13:00 até 17:00** | [**Thiago Vinicius**](github.com/darkwesy) |
-| **03/05/2024** | **A definir**                             | **13:00 até 17:00** | [**Thiago Vinicius**](github.com/darkwesy) |
-| **10/05/2024** | **A definir**                             | **17:00 até 18:20** | [**Thiago Vinicius**](github.com/darkwesy) |
-| **17/05/2024** | **A definir**                             | **17:00 até 18:20** | [**Thiago Vinicius**](github.com/darkwesy) |
+| **03/05/2024** | **Continuação da revisão de matrizes**    | **13:00 até 17:00** | [**Thiago Vinicius**](github.com/darkwesy) |
+| **17/05/2024** | **Git/Github**                            | **15:00 até 17:00** | [**Thiago Vinicius**](github.com/darkwesy) |
+| **20/05/2024** | **Introdução a desenvolvimento WEB**      | **15:00 até 17:00** | [**Thiago Vinicius**](github.com/darkwesy) |
 
 <hr>
